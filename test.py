@@ -1,3 +1,5 @@
+#authors: amirhosein ataei-ehsan nayernia
+
 import numpy as np
 
 import matplotlib.pyplot as plt
